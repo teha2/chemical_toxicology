@@ -3,12 +3,14 @@ These files will help you build a predictive model in Colab.
 
 Chemical receptor binding iput data is included for the Androgen receptor (AR, AR_input.csv).
 
-Codes are included to link a Colab Notebook to your Google Drive (mount_drive.ipynb) and to construct as predictive model for the provided input data (model_construction.ipynb).
+Codes are included to link a Colab Notebook to your Google Drive (mount_drive.py) and to construct as predictive model for the provided input data (model_construction.py).
 
 First, copy the AR_input.csv file into your Google Drive.
 
 Then open a Colab Notebook (https://colab.research.google.com/notebooks/welcome.ipynb#recent=true, choose "New Python 3 Notebook").
 
-Open a new code cell and copy in the mount_drive.ipynb code, then run it (press the play button on the left. Follow the instructions to connect your Google Drive to this Colab Notebook.
+Open a new code cell and copy in the mount_drive.py code, then run it (press the play button on the left. Follow the instructions to connect your Google Drive to this Colab Notebook.
 
-Then, open another new cell and copy in the model_construction.ipynb code. Running this code will allow you to construct your first model!
+Then, open another new cell and copy in the model_construction.py code. Running this code will allow you to construct your first model!
+
+To improve the model you will need to change the hyperparameters for training.
