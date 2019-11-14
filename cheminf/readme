@@ -1,7 +1,7 @@
 
 These files will help you build a predictive model in colab.
 
-Chemical receptor binding data is included for the Androgen receptor (AR).
+Chemical receptor binding iput data is included for the Androgen receptor (AR).
 
-Codes are included to link a colab notbook to your Google drive, generate fingerprints for the included data and to construct as predictive model.
+Codes are included to link a colab notbook to your Google drive and to construct as predictive model for the provided input data.
 
