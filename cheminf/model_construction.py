@@ -36,14 +36,14 @@ model_path = location to save model file post training
 '''
 
 input_data = "/content/drive/My Drive/AR_input.csv"
-rng_1 = 1
-rng_2 = 2
+rng_1 = 123
+rng_2 = 456
 test_proportion = 0.1
-beta = 0.01
-neurons = 10
-hidden_layers = 2
-LR = 0.001
-epochs = 100
+beta = 0.001
+neurons = 100
+hidden_layers = 1
+LR = 0.01
+epochs = 500
 model_path = "/content/drive/My Drive/AR_model.h5"
 
 print("Welcome to ChAI")
