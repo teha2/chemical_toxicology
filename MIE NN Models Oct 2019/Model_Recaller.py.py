@@ -114,7 +114,7 @@ def read_training_dataset():
 
     # Encode the dependent variable
     encoder = LabelEncoder()
-    encoder.fit(y1)
+    encoder.fit(b1)
     b = encoder.transform(b1)
     B = one_hot_encode(b)
     print("A.shape =", A.shape)
@@ -124,7 +124,7 @@ def read_training_dataset():
 
 A, B, b1 = read_training_dataset()
 
-receptor='HERG'
+receptor='AR'
 method='random split'
 fold=1
 
