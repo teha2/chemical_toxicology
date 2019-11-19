@@ -205,7 +205,7 @@ elif no_hidden_layers == 2:
             A1=sess.run(A1)
             A2=sess.run(A2)
 
-        joint_temp=np.concatenate(([A1], [A2]), axis=1)
+        joint_temp=np.concatenate(([A1], [A2]), axis=2)
         joint = np.squeeze(joint_temp, axis = 0)
 
 else:
@@ -219,7 +219,7 @@ else:
             A2=sess.run(A2)
             A3=sess.run(A3)
 
-        joint_temp=np.concatenate(([A1], [A2], [A3]), axis=1)
+        joint_temp=np.concatenate(([A1], [A2], [A3]), axis=2)
         joint = np.squeeze(joint_temp, axis = 0)
     
 print(joint.shape)
@@ -248,7 +248,7 @@ elif no_hidden_layers == 2:
             A1_train=sess.run(A1_train)
             A2_train=sess.run(A2_train)
 
-        joint_train_temp=np.concatenate(([A1_train], [A2_train]), axis=1)
+        joint_train_temp=np.concatenate(([A1_train], [A2_train]), axis=2)
         joint_train = np.squeeze(joint_train_temp, axis = 0)
 
 else:
@@ -261,7 +261,7 @@ else:
             A2_train=sess.run(A2_train)
             A3_train=sess.run(A3_train)
 
-        joint_train_temp=np.concatenate(([A1_train], [A2_train], [A3_train]), axis=1)
+        joint_train_temp=np.concatenate(([A1_train], [A2_train], [A3_train]), axis=2)
         joint_train = np.squeeze(joint_train_temp, axis = 0)
 
 print(joint_train.shape)
