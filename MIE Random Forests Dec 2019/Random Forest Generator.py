@@ -35,7 +35,7 @@ for f in range(n_targets):
     corr_mat = X.corr(method = 'pearson')
     corrs = corr_mat[(corr_mat>= 0.8)& (corr_mat<1.0)]
     
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=100)
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25, random_state=100)
     
     ######################## use CV for optimizing parameters of a RF ##########################
     grid_values = { 
