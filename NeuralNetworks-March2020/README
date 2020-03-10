@@ -6,6 +6,8 @@ Python codes are included to generate moleuclar fingerprints, generate chemical 
 
 Finalised models are included that were developed on the "Comparison Data/Training" datasets for evaluation on the "Comparison Data/Test" datasets.
 
-Input biological data used in model construction is included for reference as raw files, files divided as training and test for comparison to other models, and clustered files used in clustered cross-validation.
+Further model files generated during clustered cross-validation are also available in the University of Cambridge repository at: https://www.repository.cam.ac.uk/  
+
+Input biological data used in model construction is included for reference as complete datasets (Total), files divided as training and test for comparison to other models (Comparison), and clustered files used in clustered cross-validation (Clustered).
 
 Further information on the models is available in the included PDF.
