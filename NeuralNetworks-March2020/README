@@ -7,5 +7,3 @@ Python codes are included to generate moleuclar fingerprints, generate chemical 
 Model files generated during clustered cross-validation are available in the University of Cambridge repository at: https://www.repository.cam.ac.uk/  
 
 Input biological data used in model construction is included for reference as complete datasets (Total), files divided as training and test for comparison to other models (Comparison), and clustered files used in clustered cross-validation (Clustered).
-
-Further information on the models is available in the included PDF.
