@@ -2,7 +2,7 @@ README
 
 These files were developed in 2019 and 2020 for the prediction of human molecular initiating events (MIEs) using neural networks.
 
-Python codes are included to generate moleuclar fingerprints, generate chemical clusters, build models and recall those models.
+Python codes are included to generate molecular fingerprints, generate chemical clusters, build models and recall those models.
 
 Model files generated during clustered cross-validation are available in the University of Cambridge repository at: https://www.repository.cam.ac.uk/  
 
