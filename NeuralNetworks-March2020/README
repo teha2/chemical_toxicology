@@ -4,9 +4,7 @@ These files were developed in 2019 and 2020 for the prediction of human molecula
 
 Python codes are included to generate moleuclar fingerprints, generate chemical clusters, build models and recall those models.
 
-Finalised models are included that were developed on the "Comparison Data/Training" datasets for evaluation on the "Comparison Data/Test" datasets.
-
-Further model files generated during clustered cross-validation are also available in the University of Cambridge repository at: https://www.repository.cam.ac.uk/  
+Model files generated during clustered cross-validation are available in the University of Cambridge repository at: https://www.repository.cam.ac.uk/  
 
 Input biological data used in model construction is included for reference as complete datasets (Total), files divided as training and test for comparison to other models (Comparison), and clustered files used in clustered cross-validation (Clustered).
 
