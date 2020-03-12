@@ -11,3 +11,5 @@ Red annotations boxes with black outlines are next to output files. Configure th
 White annotations boxes describe what the nodes are doing.
 
 If the KNIME workflow is missing nodes, you may need to install the Nightly Builds from the KNIME community contributions https://www.knime.com/community .
+
+Models generated for the publication "Structural Alerts and Random Forest Models in a Consensus Approach for Receptor Binding Molecular Initiating Events" DOI:10.1021/acs.chemrestox.9b00325
