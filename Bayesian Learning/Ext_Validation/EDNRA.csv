@@ -1,0 +1,17 @@
+SMILES,P(Act)
+C=CCOc1ccc2c(c1)c(=O)c(Cc1cccc(-c3nnn[nH]3)c1)c(C(=O)O)n2Cc1cc2c(cc1CC)OCO2,7.316952962
+CCCCOc1ccc2c(c1)c(=O)c(Cc1cccc(-c3nnn[nH]3)c1)c(C(=O)O)n2Cc1cc2c(cc1CC)OCO2,8.920818754
+CCCOc1ccc2c(c1)c(=O)c(Cc1cccc(-c3nnn[nH]3)c1)c(C(=O)O)n2Cc1cc2c(cc1CC)OCO2,9.096910013
+CCOc1ccc2c(c1)c(=O)c(Cc1cccc(-c3nnn[nH]3)c1)c(C(=O)O)n2Cc1cc2c(cc1CC)OCO2,8.148741651
+CCc1cc2c(cc1Cn1c(C(=O)O)c(Cc3cccc(-c4nnn[nH]4)c3)c(=O)c3cc(O)ccc31)OCO2,7.534617149
+CCc1cc2c(cc1Cn1c(C(=O)O)c(Cc3cccc(-c4nnn[nH]4)c3)c(=O)c3cc(OCC(C)C)ccc31)OCO2,8.207608311
+CCc1cc2c(cc1Cn1c(C(=O)O)c(Cc3cccc(-c4nnn[nH]4)c3)c(=O)c3cc(OCC4CC4)ccc31)OCO2,7.105683937
+CCc1cc2c(cc1Cn1c(C(=O)O)c(Cc3cccc(-c4nnn[nH]4)c3)c(=O)c3cc(OCC4CCC4)ccc31)OCO2,6.554240164
+CCc1cc2c(cc1Cn1c(C(=O)O)c(Cc3cccc(-c4nnn[nH]4)c3)c(=O)c3cc(OCC4CCCC4)ccc31)OCO2,6.058985756
+CCc1cc2c(cc1Cn1c(C(=O)O)c(Cc3cccc(-c4nnn[nH]4)c3)c(=O)c3cc(OCCN)ccc31)OCO2,6.428291168
+CCc1cc2c(cc1Cn1c(C(=O)O)c(Cc3cccc(-c4nnn[nH]4)c3)c(=O)c3cc(OCOC)ccc31)OCO2,7.76700389
+CCc1cc2c(cc1Cn1c(C(=O)O)c(Cc3cccc(C(=O)O)c3)c(=O)c3cc(OCC4CCC4)ccc31)OCO2,6.465973894
+CCc1cc2c(cc1Cn1c(C(=O)O)c(Cc3cccc(C(=O)O)c3)c(=O)c3cc(OCC4CCCC4)ccc31)OCO2,5.989700043
+CCc1cc2c(cc1Cn1c(C(=O)O)c(Cc3cccc(C(=O)O)c3)c(=O)c3cc(OCCN)ccc31)OCO2,6.438302467
+COc1ccccc1Oc1c(NS(=O)(=O)c2ccc(C(F)(C(F)(F)F)C(F)(F)F)cc2)nc(-c2ncccn2)nc1OCCO,7.122628654
+COc1ccccc1Oc1c(NS(=O)(=O)c2ccc(C(OC)(C(F)(F)F)C(F)(F)F)cc2)nc(-c2ncccn2)nc1OCCO,3.159266765
