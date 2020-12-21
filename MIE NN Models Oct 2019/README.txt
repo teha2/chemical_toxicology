@@ -9,3 +9,5 @@ Models developed in TensorFlow during the research (1) and improved models optim
 Input biological data used in model construction is also included for reference, and one (AR) has already been converted into a moleuclar fingerprint.
 
 Further information on the models is available in the included PDF.
+
+These files form part of the supporting information for "Neural network activation similarity: a new measure to assist decision making in chemical toxicology" by TEH Allen et al. which can be found at https://pubs.rsc.org/en/content/articlelanding/2020/sc/d0sc01637c
